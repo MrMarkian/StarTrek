@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Star Trek", "Star Trek.vcproj", "{3A58FE9D-D51E-4A3E-86B0-3D116895305B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A58FE9D-D51E-4A3E-86B0-3D116895305B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A58FE9D-D51E-4A3E-86B0-3D116895305B}.Debug|Win32.Build.0 = Debug|Win32
+		{3A58FE9D-D51E-4A3E-86B0-3D116895305B}.Release|Win32.ActiveCfg = Release|Win32
+		{3A58FE9D-D51E-4A3E-86B0-3D116895305B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

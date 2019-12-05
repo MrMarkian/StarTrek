@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1300931380 source:d:\programming\c++ projects\startrek\main.c
+	<windows.h>
+	<time.h>
+	"graphics.h"
+	"setup.h"
+
+1323630312 d:\programming\c++ projects\startrek\graphics.h
+
+1276553750 d:\programming\c++ projects\startrek\setup.h
+
+1300931380 source:h:\programming\c++ projects\startrek\main.c
+	<windows.h>
+	<time.h>
+	"graphics.h"
+	"setup.h"
+
+1323630312 h:\programming\c++ projects\startrek\graphics.h
+
+1276557350 h:\programming\c++ projects\startrek\setup.h
+

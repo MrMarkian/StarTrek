@@ -1,0 +1,12 @@
+/////  TODO - Star Trek Game
+
+Get rid of Command prompt and maybe draw some fancy grapics menu system instead
+Death Screen
+
+Congratulations Screen
+
+re-write of klingon intelligence
+
+
+
+

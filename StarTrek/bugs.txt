@@ -1,0 +1,10 @@
+/// BUGS - Star Trek Game
+
+Engery levels dont update all the way up if ship is upgraded
+
+
+
+
+
+
+
